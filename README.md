@@ -1,2 +1,2 @@
-# image-galary
-Created with CodeSandbox
+# image-grid-gallery
+ Image galary project
